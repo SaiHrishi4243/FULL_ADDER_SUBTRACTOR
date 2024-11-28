@@ -70,11 +70,11 @@ endmodule
 
 **RTL Schematic**
 
-![Screenshot 2024-11-28 112108](https://github.com/user-attachments/assets/350cb978-cb6e-4eca-89ba-3ac3bba1557f)
+![Screenshot 2024-11-28 112245](https://github.com/user-attachments/assets/939bab87-7f2c-4e52-989e-e409934c08b8)
 
 **Output Timing Waveform**
 
-![Screenshot 2024-11-28 112245](https://github.com/user-attachments/assets/939bab87-7f2c-4e52-989e-e409934c08b8)
+![Screenshot 2024-11-28 112108](https://github.com/user-attachments/assets/350cb978-cb6e-4eca-89ba-3ac3bba1557f)
 
 **Result:**
 
